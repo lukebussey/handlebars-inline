@@ -1,0 +1,21 @@
+{
+  "name": "handlebars-inline",
+  "version": "1.0.0",
+  "description": "A simple Handlebars helper for inlining the contents of files.",
+  "homepage": "https://github.com/lukebussey/handlebars-inline",
+  "main": "index.js",
+  "repository": "https://github.com/lukebussey/handlebars-inline.git",
+  "author": {
+    "name": "Luke Bussey",
+    "email": "luke.bussey@gmail.com",
+    "url": "https://github.com/lukebussey"
+  },
+  "keywords": [
+    "handlebars",
+    "inline"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "svgo": "^0.7.1"
+  }
+}
