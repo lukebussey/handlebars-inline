@@ -8,6 +8,11 @@ Install with [npm](https://www.npmjs.com/):
 
     $ npm install --save handlebars-inline
 
+## Registering the helper
+
+    const Handlebars = require('handlebars')
+    require('handlebars-inline').register(Handlebars)
+
 ## Usage
 
     {{{inline 'path/to/file.svg'}}}
